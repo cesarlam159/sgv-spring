@@ -10,7 +10,7 @@ import org.springframework.web.bind.annotation.*;
 import java.util.List;
 
 @Controller
-@RequestMapping("/cargos")
+@RequestMapping("/cargos123")
 public class CargoController {
 
     private final CargoService cargoService;
